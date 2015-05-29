@@ -1,0 +1,8 @@
+== Nix Expression Parser in Scala
+
+Yup. You found me in my newborn state. Check back in a couple of weeks.
+
+=== License
+
+This project will be licensed under the BSD 3-clause license. See
+link:LICENSE for more information.
